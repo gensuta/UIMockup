@@ -1,0 +1,45 @@
+{
+    "name": "InputMap",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "b0b5cd35-f17f-4aaf-b2f2-0aaf6a8c4a0a",
+            "actions": [
+                {
+                    "name": "Continue",
+                    "type": "Button",
+                    "id": "be9a4465-41b6-4c5e-b146-a072826590ea",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b4082077-6c0b-46fa-ac11-61088f952c40",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Continue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6d629631-41a0-4ead-95d9-8815ccdbc239",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Continue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
